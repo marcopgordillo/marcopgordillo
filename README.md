@@ -50,6 +50,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My first post](https://dev.to/marcopgordillo/my-first-post-27n9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
