@@ -44,11 +44,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Evan You -  VueJSLive talk, the future of JavaScript, AI in tech](https://www.youtube.com/watch?v=TwjUuivIrPI)
 - [Don&#39;t Miss VueJS Live - Register Now!](https://www.youtube.com/watch?v=zTCpVNRMpEw)
 - [🛑 Stop Creating Folder Structures the Hard Way in VS Code!](https://www.youtube.com/watch?v=_XbEX5kuATY)
 - [Custom Icons in VS Code](https://www.youtube.com/watch?v=srGCblsKmDs)
 - [Keep Your Packages Up-To-Date with this VS Code Extension](https://www.youtube.com/watch?v=FIHFLGEPolg)
-- [Fireship in 100 Seconds](https://www.youtube.com/watch?v=cYoY_WbqNSw)
 <!-- YOUTUBE:END -->
 
 ---
